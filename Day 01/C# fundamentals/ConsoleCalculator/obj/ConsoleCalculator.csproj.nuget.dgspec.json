@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleCalculator\\ConsoleCalculator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleCalculator\\ConsoleCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleCalculator\\ConsoleCalculator.csproj",
+        "projectName": "ConsoleCalculator",
+        "projectPath": "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleCalculator\\ConsoleCalculator.csproj",
+        "packagesPath": "C:\\Users\\RahulAanandSenthilKu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RahulAanandSenthilKu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj": {
+                "projectPath": "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj",
+        "projectName": "ConsoleHelloWorld",
+        "projectPath": "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleHelloWorld\\ConsoleHelloWorld.csproj",
+        "packagesPath": "C:\\Users\\RahulAanandSenthilKu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RahulAanandSenthilKu\\Documents\\C# Learning\\CSharpBasics\\Day 01\\C# fundamentals\\ConsoleHelloWorld\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RahulAanandSenthilKu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

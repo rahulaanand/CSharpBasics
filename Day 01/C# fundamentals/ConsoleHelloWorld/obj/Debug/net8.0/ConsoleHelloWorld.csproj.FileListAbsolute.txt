@@ -1,0 +1,30 @@
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.exe
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.deps.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.runtimeconfig.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.pdb
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.AssemblyInfoInputs.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.AssemblyInfo.cs
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.sourcelink.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\refint\ConsoleHelloWorld.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.pdb
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.genruntimeconfig.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ref\ConsoleHelloWorld.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.exe
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.deps.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.runtimeconfig.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.pdb
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.AssemblyInfoInputs.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.AssemblyInfo.cs
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.sourcelink.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\refint\ConsoleHelloWorld.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.pdb
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.genruntimeconfig.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 01\C# fundamentals\ConsoleHelloWorld\obj\Debug\net8.0\ref\ConsoleHelloWorld.dll

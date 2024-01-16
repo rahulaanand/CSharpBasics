@@ -1,0 +1,15 @@
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\bin\Debug\net8.0\C#Numbers.exe
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\bin\Debug\net8.0\C#Numbers.deps.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\bin\Debug\net8.0\C#Numbers.runtimeconfig.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\bin\Debug\net8.0\C#Numbers.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\bin\Debug\net8.0\C#Numbers.pdb
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\obj\Debug\net8.0\C#Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\obj\Debug\net8.0\C#Numbers.AssemblyInfoInputs.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\obj\Debug\net8.0\C#Numbers.AssemblyInfo.cs
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\obj\Debug\net8.0\C#Numbers.csproj.CoreCompileInputs.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\obj\Debug\net8.0\C#Numbers.sourcelink.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\obj\Debug\net8.0\C#Numbers.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\obj\Debug\net8.0\refint\C#Numbers.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\obj\Debug\net8.0\C#Numbers.pdb
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\obj\Debug\net8.0\C#Numbers.genruntimeconfig.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 02\C#Fundamentals\C#Numbers\obj\Debug\net8.0\ref\C#Numbers.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fibonaccci/1.0.0": {
+        "runtime": {
+          "Fibonaccci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fibonaccci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

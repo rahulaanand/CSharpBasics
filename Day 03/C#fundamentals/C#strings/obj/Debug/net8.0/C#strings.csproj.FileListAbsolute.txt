@@ -1,0 +1,15 @@
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\bin\Debug\net8.0\C#strings.exe
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\bin\Debug\net8.0\C#strings.deps.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\bin\Debug\net8.0\C#strings.runtimeconfig.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\bin\Debug\net8.0\C#strings.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\bin\Debug\net8.0\C#strings.pdb
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\obj\Debug\net8.0\C#strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\obj\Debug\net8.0\C#strings.AssemblyInfoInputs.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\obj\Debug\net8.0\C#strings.AssemblyInfo.cs
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\obj\Debug\net8.0\C#strings.csproj.CoreCompileInputs.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\obj\Debug\net8.0\C#strings.sourcelink.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\obj\Debug\net8.0\C#strings.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\obj\Debug\net8.0\refint\C#strings.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\obj\Debug\net8.0\C#strings.pdb
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\obj\Debug\net8.0\C#strings.genruntimeconfig.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\C#fundamentals\C#strings\obj\Debug\net8.0\ref\C#strings.dll

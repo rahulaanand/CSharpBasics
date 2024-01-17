@@ -1,0 +1,15 @@
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\bin\Debug\net8.0\MyBankApplication.exe
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\bin\Debug\net8.0\MyBankApplication.deps.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\bin\Debug\net8.0\MyBankApplication.runtimeconfig.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\bin\Debug\net8.0\MyBankApplication.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\bin\Debug\net8.0\MyBankApplication.pdb
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\obj\Debug\net8.0\MyBankApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\obj\Debug\net8.0\MyBankApplication.AssemblyInfoInputs.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\obj\Debug\net8.0\MyBankApplication.AssemblyInfo.cs
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\obj\Debug\net8.0\MyBankApplication.csproj.CoreCompileInputs.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\obj\Debug\net8.0\MyBankApplication.sourcelink.json
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\obj\Debug\net8.0\MyBankApplication.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\obj\Debug\net8.0\refint\MyBankApplication.dll
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\obj\Debug\net8.0\MyBankApplication.pdb
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\obj\Debug\net8.0\MyBankApplication.genruntimeconfig.cache
+C:\Users\RahulAanandSenthilKu\Documents\C# Learning\CSharpBasics\Day 03\MyBankApplication\MyBankApplication\obj\Debug\net8.0\ref\MyBankApplication.dll
